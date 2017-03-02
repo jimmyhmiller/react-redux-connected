@@ -1,6 +1,6 @@
 {
   "name": "react-redux-connected",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "react-redux-connected React component",
   "main": "lib/index.js",
   "module": "es/index.js",
