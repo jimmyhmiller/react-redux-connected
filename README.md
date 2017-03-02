@@ -153,8 +153,5 @@ connected :: Comp({...props}) => Comp({withSelectors, withActions, disconnect, .
 * disconnect = don't use withSelectors or withActions
 
 
-
-[![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/react-redux-connected)
-
 [npm-badge]: https://img.shields.io/npm/v/react-redux-connected.png?style=flat-square
 [npm]: https://www.npmjs.org/package/react-redux-connected
