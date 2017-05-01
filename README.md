@@ -27,6 +27,11 @@ const Users = () =>
  
 ```
 
+### Install
+```bash
+npm install --save react-redux-connected
+```
+
 ## Why?
 
 It isn't uncommon to have a component that you want to use sometimes with redux and sometimes without. The main way this is achieved is by the container/component pattern. `connect` from react-redux allows us to create these containers that hook up our components to redux. But when trying to use our components with and without redux, we run into an organization problem, how do we expose both? The two most common patterns for this are to co-locate connect or to seperate the definitions.
